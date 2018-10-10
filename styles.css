@@ -1,0 +1,13 @@
+
+.description{
+	font-size: 20px;
+	font-family: Arial;
+}
+
+body {
+	background-color: none;
+}
+
+.interestingContent{
+	font-style: italic;
+	font-size: 25px;
